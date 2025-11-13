@@ -2,7 +2,7 @@ List of relevant functions in lalsimulation
 
 In the following, we list the external functions that we have added for this upgrade that are related to the EOSMultiParts structure.
 
-*XLALDestroySimNeutronStarEOSMultiParts
+* XLALDestroySimNeutronStarEOSMultiParts
 XLALSimNeutronStarEOSMultiPartsName
 XLALSimNeutronStarEOSMultiPartsNumber
 XLALSimNeutronStarEOSPart
